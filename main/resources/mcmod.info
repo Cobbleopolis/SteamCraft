@@ -1,0 +1,16 @@
+[
+{
+  "modid": "steamcraft",
+  "name": "Steam Craft",
+  "description": "A mod that brings the concepts of the steam-punk world to Minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": "Cobbleopolis",
+  "credits": "The Forge and FML guys, for making this possible",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

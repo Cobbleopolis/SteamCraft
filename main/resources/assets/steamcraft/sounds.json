@@ -1,0 +1,4 @@
+{
+	"shotgunshot": {"catagory": "master", "sounds": [{"name": "shotgunshot","stream": false}]},
+	"reload": {"catagory": "master", "sounds": [{"name": "reload","stream": false}]}
+}
